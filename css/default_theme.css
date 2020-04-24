@@ -1,0 +1,19 @@
+.theme .option,.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus
+,.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .theme ul li  {
+    background-color: #E41B17;
+}
+.color, .test .carousel-indicators li.active {
+    border: 3px solid #E41B17;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    border-top: 3px solid #E41B17;
+}
+.carousel-indicators li.active {
+    background-color: #E41B17;
+    border: 1px solid #E41B17;
+}
+.about span, .test .item h4, .footer h3, .copy span, .navbar-brand span {
+    color: #E41B17;
+}
