@@ -2,6 +2,10 @@ $(".option").click(function(){
     $(".color").fadeToggle();
 });
 
+$('.carousel').carousel({
+  interval: 2000
+})
+
 $(function() {  
     $("html").niceScroll();
 });
