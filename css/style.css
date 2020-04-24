@@ -115,11 +115,7 @@
     height: 12px;
     border: 1px solid #111;
 }
-.carousel-inner > .item >img{
-  min-height : 300px;
-  max-height : 300px;
-  width : 100%;
-}
+.carousel-inner .item {height: 445px;}
 .carousel-indicators li.active {width: 15px;height: 15px;}
 .carousel-caption {
     padding: 46px;
@@ -165,6 +161,7 @@
         font-size: 18px;
     }
 }
+.test{visibility: visible;}
 .test .item h4 {margin: 0;padding: 0;font-weight: bold;}
 .test .carousel-indicators {position: static;margin: 30px auto;}
 .test .carousel-indicators li {
