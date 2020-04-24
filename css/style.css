@@ -115,7 +115,6 @@
     height: 12px;
     border: 1px solid #111;
 }
-.carousel-inner .item {height: 445px;}
 .carousel-indicators li.active {width: 15px;height: 15px;}
 .carousel-caption {
     padding: 46px;
